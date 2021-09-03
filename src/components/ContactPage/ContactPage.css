@@ -1,0 +1,57 @@
+.maincontainer{
+    height: auto;
+    width: auto;
+    
+    justify-content: center;
+    margin-top: 12px;  
+    border-radius: 15px;
+    border: solid gray;
+}
+.container{
+    width: 522px;
+    height: auto;
+    top: 516px;
+}
+.formgroup{
+   margin-top: 12px;
+   margin-left: 12px;
+   margin-right: 12px;
+   margin-bottom: 12px;
+   align-items: center;
+   align-content: center;
+
+}
+.rr{
+   margin-top: 12px;
+    border-radius: 15px;
+    height: auto;
+    width: auto;
+    align-self: center;
+    background-color: lightgray;
+  
+}
+.form-control{
+    height: auto;
+    width: auto;
+}
+.form-control input-lg{
+    height: auto;
+}
+.page-header{
+    background-color: lightgray;
+    height: 50PX;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.gh{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    vertical-align: middle;
+}
+.imageclass{
+    margin-left: 10px;
+}

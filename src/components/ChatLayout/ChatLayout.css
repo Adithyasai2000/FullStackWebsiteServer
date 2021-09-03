@@ -1,0 +1,47 @@
+.messagebox{
+    border: 1px solid #ddd;
+    padding: 7px 15px;
+    border-radius: 20px;
+    font-size: 13px;
+    background: #dfe6e9;
+    margin-bottom: 20px;
+    width: 80%;
+    float: left;
+}
+.yl{
+    justify-content: end;
+    justify-self: end;
+}
+.ght{
+    justify-items: start;
+   justify-content: start;
+}
+.messagebox1{
+    float: right;
+    max-width: 80%;
+    width: 80%;
+    font-size: 13px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background: #00cec9;
+    border: 1px solid #ddd;
+    padding: 7px 15px;
+    border-radius: 20px;
+    font-size: 13px;
+
+}
+.chatcontainer{
+    max-height: 400px;
+    overflow: scroll;
+    width: 100%;
+    scroll-behavior: smooth;
+   
+   
+}
+.rowy{
+    width: 100%;
+    align-items: flex-end;
+    
+
+    
+}

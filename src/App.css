@@ -1,0 +1,25 @@
+.actualcontainer{
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+}
+
+.imageclass{
+  margin-left: 125px;
+}
+.containerrr{
+  
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.App{
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  vertical-align: middle;
+  background-color: whitesmoke;
+  height:auto;
+  width: auto;
+  
+}

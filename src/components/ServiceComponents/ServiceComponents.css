@@ -1,0 +1,6 @@
+.con{
+    position: absolute;
+    float: left;
+    flex: auto;
+    align-content: flex-start;
+}

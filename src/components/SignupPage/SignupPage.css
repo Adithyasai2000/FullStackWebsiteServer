@@ -1,0 +1,53 @@
+.rt{
+    margin-top: 56px;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    margin-bottom: 6px;
+    
+}
+.para{
+    justify-content: center;
+    align-self: auto;
+    flex: auto;
+}
+.container{
+    background-color:white;
+    border-radius: 15px;
+    justify-content: center;
+    margin-top: 15px;
+    box-shadow: 5px 5px 5px 5px gray ;
+    height: auto;
+    width: auto;
+    
+}
+.form-horizontal{
+    top: 115px;
+    
+    
+}
+.control-label{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.imgcon{
+    margin-top: 115px;
+    margin-left: 25px;
+    
+   
+    height:max-content;
+    width: 256px;
+}
+.col{
+    margin-bottom: 15px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+.glyphicon{
+    margin-top: 115px;
+}
+.yt{
+    text-decoration: soli;
+    text-decoration-color: green;
+}

@@ -1,0 +1,15 @@
+.renn{
+    position: absolute;
+    width: auto;
+    height: auto;
+}
+.card{
+    width: auto;
+}
+.card-img-top{
+    height: 115px;
+    width: 115px;
+}
+.card bg-secondary{
+    width: 115px;
+}
